@@ -1,16 +1,1 @@
-## Software | [Download](https://github.com/postor/HWID-Spoofer/releases/download/ClientApp/Win-Installer-x64.zip)
-![image](https://github.com/Kobe972/USTC-ncov-AutoReport/assets/71507738/80430a75-2f9c-434e-b916-278f8b807af5)
-✔️Installation:
-+ Download the archive at the release
-+ Unzip the archive with WinRar 
-+ Run the program 
-
-
-✔️How to use?
-+ Select the desired settings in the "External Menu" Start your game
-+ Wait some time for the cheat to load automatically
-+ You can change the settings at any time
-
-## License
-
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+这个曾经是疫情期间中科大自动报备的脚本，但是不知道为什么今天打开的时候自动把文件删光了。因为现在没有需求，我也懒得恢复了，如果想看是怎么实现的，参考https://github.com/Kobe972/USTC-ncov-AutoReport/tree/fb3c736eb66b23d3c8d6beba99e65d62f59965e1
